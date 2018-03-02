@@ -1,0 +1,16 @@
+D:\C#\Другое решение\App\bin\Debug\App.exe.config
+D:\C#\Другое решение\App\bin\Debug\App.exe
+D:\C#\Другое решение\App\bin\Debug\App.pdb
+D:\C#\Другое решение\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\C#\Другое решение\App\obj\Debug\App.Form1.resources
+D:\C#\Другое решение\App\obj\Debug\App.Properties.Resources.resources
+D:\C#\Другое решение\App\obj\Debug\App.csproj.GenerateResource.Cache
+D:\C#\Другое решение\App\obj\Debug\App.exe
+D:\C#\Другое решение\App\obj\Debug\App.pdb
+D:\C#\Другое решение\App\bin\Debug\ClassLibrary1.dll
+D:\C#\Другое решение\App\bin\Debug\ClassLibrary1.pdb
+D:\C#\Другое решение\App\obj\Debug\App.chooseFParameter.resources
+D:\C#\Другое решение\App\obj\Debug\App.AddChange.resources
+C:\Users\Тигран\Downloads\Мартиросян_11\Мартиросян_11\App\bin\Debug\App.exe.config
+C:\Users\Тигран\Downloads\Мартиросян_11\Мартиросян_11\App\obj\Debug\App.exe
+C:\Users\Тигран\Downloads\Мартиросян_11\Мартиросян_11\App\obj\Debug\App.pdb

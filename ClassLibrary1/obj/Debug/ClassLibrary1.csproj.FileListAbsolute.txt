@@ -1,0 +1,5 @@
+D:\C#\Другое решение\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\C#\Другое решение\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\C#\Другое решение\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\C#\Другое решение\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\C#\Другое решение\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
